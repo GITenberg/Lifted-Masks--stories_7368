@@ -1,0 +1,33 @@
+_repo: Lifted-Masks--stories_7368
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Glaspell, Susan
+    aliases:
+    - Glaspel, Susan
+    - Cook, Mrs. George Cram
+    - Cook, Susan
+    birthdate: 1876
+    deathdate: 1948
+    gutenberg_agent_id: '2446'
+    url: http://www.gutenberg.org/2009/agents/2446
+    wikipedia: http://en.wikipedia.org/wiki/Susan_Glaspell
+description: ''
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7368'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'United States -- Social life and customs -- 20th century -- Fiction'
+- GITenberg
+tableOfContents: '"One of Those Impossible Americans" -- The Plea -- For Love of the
+  Hills -- Freckles M''Grath -- From A to Z -- The Man of Flesh and Blood -- How the
+  Prince Saw America -- The Last Sixty Minutes -- "Out There" -- The Preposterous
+  Motive -- His America -- The Anarchist: His Dog -- At Twilight.'
+title: Lifted Masks; stories
+url: http://www.gutenberg.org/ebooks/7368
